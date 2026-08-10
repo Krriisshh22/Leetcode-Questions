@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
@@ -111,4 +112,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
