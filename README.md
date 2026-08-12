@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0147-insertion-sort-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0217-contains-duplicate) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0021-merge-two-sorted-lists) |
+| [0147-insertion-sort-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0148-sort-list) |
 ## Recursion
 |  |
