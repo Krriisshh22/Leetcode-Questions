@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0231-power-of-two) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
