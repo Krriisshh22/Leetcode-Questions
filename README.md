@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0443-string-compression) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0147-insertion-sort-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
