@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0443-string-compression) |
 ## String Matching
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
