@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0326-power-of-three) |
 ## Merge Sort
 |  |
 | ------- |
