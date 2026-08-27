@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0092-reverse-linked-list-ii) |
+| [0143-reorder-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 ## Quicksort
 |  |
