@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0443-string-compression) |
+| [0844-backspace-string-compare](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0443-string-compression) |
+| [0844-backspace-string-compare](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 ## String Matching
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0059-spiral-matrix-ii) |
+| [0844-backspace-string-compare](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Linked List
 |  |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 ## Quicksort
 |  |
 | ------- |
