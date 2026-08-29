@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0069-sqrtx) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0058-length-of-last-word) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0217-contains-duplicate) |
