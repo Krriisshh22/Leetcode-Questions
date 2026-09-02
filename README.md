@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
