@@ -31,12 +31,7 @@ class Solution {
         ListNode left = head;
         ListNode leftP = temp;
         int i =1;
-        if (n-k==1 || n-k==-1){
-            if (k>n){
-                k = k^n;
-                n = k^n;
-                k = k^n;
-            }
+        if (n-k==1){
             while (i != k){
                 leftP = left;
                 left = left.next;
