@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
