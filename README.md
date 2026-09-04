@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0342-power-of-four) |
@@ -252,4 +254,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0155-min-stack) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
