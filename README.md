@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 | [3903-smallest-stable-index-i](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
