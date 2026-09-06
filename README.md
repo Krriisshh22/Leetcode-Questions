@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 ## Quicksort
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0503-next-greater-element-ii) |
 ## Range Minimum/Maximum Query
 |  |
