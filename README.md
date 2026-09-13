@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0011-container-with-most-water) |
+| [0860-lemonade-change](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0860-lemonade-change) |
 ## Binary Search
 |  |
 | ------- |
