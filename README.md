@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [1903-largest-odd-number-in-string](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1903-largest-odd-number-in-string) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -326,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Queue
 |  |
@@ -351,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
