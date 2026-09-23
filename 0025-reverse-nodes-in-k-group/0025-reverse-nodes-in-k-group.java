@@ -9,39 +9,59 @@
  * }
  */
 class Solution {
-    public ArrayList<Integer> rev (ArrayList<Integer> l, int a, int b){
-        int i = a, j = b;
-        while (i<j){
-            int temp = l.get(i);
-            l.set(i, l.get(j));
-            l.set(j, temp);
-            i++;
-            j--;
+    public ListNode reverseList(ListNode tail, ListNode head, int k) {
+        ListNode original = head;
+        ListNode prev = null;
+        ListNode curr = head;
+        ListNode next = head;
+
+        while (k != 0) {
+            next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
+            k--;
         }
-        return l;
+
+        head.next = next;
+        head = prev;
+
+        if (tail != null) {
+            tail.next = head;
+        }
+
+        return original;
     }
+
     public ListNode reverseKGroup(ListNode head, int k) {
-        ListNode temp = head;
-        ArrayList<Integer> l = new ArrayList<>();
+        int n = 0;
+        ListNode curr = head;
 
-        while (temp != null){
-            l.add(temp.val);
-            temp = temp.next;
+        while (curr != null) {
+            curr = curr.next;
+            n++;
         }
 
-        int i =0, j=k-1;
-        while (j<l.size()){
-            l = rev(l, i, j);
-            i += k;
-            j += k;
-        }
-        
-        temp = head;
-        while (temp != null){
-            temp.val = l.remove(0);
-            temp = temp.next;
+        if (k == 1 || n == 1) {
+            return head;
         }
 
-        return head;
+        int count = 1;
+        ListNode ans = head;
+
+        while (count != k) {
+            ans = ans.next;
+            count++;
+        }
+
+        ListNode tail = reverseList(null, head, k);
+        n = n - k;
+
+        while (n >= k) {
+            tail = reverseList(tail, tail.next, k);
+            n = n - k;
+        }
+
+        return ans;
     }
 }
