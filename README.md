@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0503-next-greater-element-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0860-lemonade-change](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
