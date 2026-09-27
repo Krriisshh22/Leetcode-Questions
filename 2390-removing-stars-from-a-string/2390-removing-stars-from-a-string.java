@@ -23,7 +23,7 @@ class Solution {
             char ch= s.charAt(i);
 
             if (ch == '*'){
-                sb = new StringBuilder(sb.substring(0, sb.length()-1));
+                sb.deleteCharAt(sb.length()-1);
             }
             else{
                 sb.append(ch);
