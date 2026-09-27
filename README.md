@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1903-largest-odd-number-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2390-removing-stars-from-a-string](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [2104-sum-of-subarray-ranges](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/2104-sum-of-subarray-ranges) |
+| [2390-removing-stars-from-a-string](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Quicksort
 |  |
 | ------- |
