@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0189-rotate-array) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
