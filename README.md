@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0066-plus-one) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0119-pascals-triangle-ii) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0704-binary-search) |
 ## Dynamic Programming
