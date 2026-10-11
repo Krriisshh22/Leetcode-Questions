@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2104-sum-of-subarray-ranges](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3903-smallest-stable-index-i) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
