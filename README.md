@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0118-pascals-triangle) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0231-power-of-two) |
@@ -496,5 +498,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
