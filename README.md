@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1903-largest-odd-number-in-string](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1903-largest-odd-number-in-string) |
+| [2409-count-days-spent-together](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/2409-count-days-spent-together) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/2409-count-days-spent-together) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3498-reverse-degree-of-a-string](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
