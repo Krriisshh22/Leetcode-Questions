@@ -1,33 +1,30 @@
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
-        ArrayList<Integer> ll= new ArrayList<>();
-        int startRow = 0;
-        int endRow = matrix.length-1;
-        int startCol =0;
-        int endCol = matrix[0].length-1;
-        while (startRow<=endRow && startCol<=endCol){
-            for (int i =startCol; i<=endCol; i++){
-                ll.add(matrix[startRow][i]);
-            }
-            for (int j =startRow+1; j<=endRow ; j++){
-                ll.add(matrix[j][endCol]);
-            }
-            for (int k= endCol-1; k>=startCol ; k--){
-                if (startRow==endRow)
-                break;
-                ll.add(matrix[endRow][k]);
-            }
-            for (int l=endRow-1; l>=startRow+1; l--){
-                if (startCol == endCol)
-                break;
-                ll.add(matrix[l][startCol]);
-            }
-            startRow++;
-            startCol++;
-            endRow--;
-            endCol--;
-        }
-        return ll;
+        int startR =0, startC = 0, endR = matrix.length-1, endC = matrix[0].length-1;
+        List<Integer> l = new ArrayList<>();
 
+        while (startR <= endR && startC <= endC){
+            for (int i = startC; i<= endC; i++){
+                l.add(matrix[startR][i]);
+            }
+            for (int j = startR+1; j<=endR; j++){
+                l.add(matrix[j][endC]);
+            }
+            for (int k = endC-1; k>=startC; k--){
+                if (startR == endR)
+                    break;
+                l.add(matrix[endR][k]);
+            }
+            for (int m = endR-1; m>startR; m--){
+                if (startC == endC)
+                    break;
+                l.add(matrix[m][startC]);
+            }
+            startR++;
+            endR--;
+            startC++;
+            endC--;
+        }
+        return l;
     }
 }
