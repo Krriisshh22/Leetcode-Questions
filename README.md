@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0217-contains-duplicate) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
