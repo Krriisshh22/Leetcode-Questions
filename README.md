@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
