@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1903-largest-odd-number-in-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/2409-count-days-spent-together) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3498-reverse-degree-of-a-string](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
