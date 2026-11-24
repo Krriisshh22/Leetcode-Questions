@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1267-count-servers-that-communicate](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0503-next-greater-element-ii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/2104-sum-of-subarray-ranges) |
 ## Range Minimum/Maximum Query
 |  |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -500,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -537,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
