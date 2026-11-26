@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/2409-count-days-spent-together) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3360-stone-removal-game](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
