@@ -9,13 +9,6 @@ class Solution {
                 cs = 0;
 
         }
-
-        // if (ms == 0){
-        //     ms = Integer.MIN_VALUE;
-        //     for (int j =0; j<nums.length; j++){
-        //         ms = Math.max(ms, nums[j]);
-        //     }
-        // }
         return ms;
     }
 }
