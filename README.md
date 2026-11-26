@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1267-count-servers-that-communicate](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1267-count-servers-that-communicate) |
+| [1331-rank-transform-of-an-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
+| [1331-rank-transform-of-an-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
