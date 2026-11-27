@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Merge Sort
 |  |
 | ------- |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Krriisshh22/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
